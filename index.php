@@ -1,5 +1,6 @@
 <?php
 
-include 'src'.DIRECTORY_SEPARATOR.'core.php';
+$DS = DIRECTORY_SEPARATOR
+include 'src'.$DS.'core.php';
  
  ?>
